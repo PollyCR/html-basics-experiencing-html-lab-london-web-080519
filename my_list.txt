@@ -11,3 +11,6 @@ Erumpent
 Salamander
 Thestral
 Unicorn
+Crup
+Knarl
+Porlock
