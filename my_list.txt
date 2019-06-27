@@ -4,3 +4,5 @@ Kneazle
 Bowtruckle
 Flobberworm
 Blast-Ended Skrewts
+Centaur
+Acromantula
