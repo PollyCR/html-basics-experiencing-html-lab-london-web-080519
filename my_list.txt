@@ -9,3 +9,5 @@ Acromantula
 Doxy
 Erumpent
 Salamander
+Thestral
+Unicorn
