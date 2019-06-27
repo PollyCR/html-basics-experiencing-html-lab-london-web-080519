@@ -8,3 +8,4 @@ Centaur
 Acromantula
 Doxy
 Erumpent
+Salamander
